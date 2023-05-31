@@ -30,4 +30,4 @@ Este repositório foi criado no âmbito da Unidade Curricular de Segurança Info
 
 * [CWE-362: Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition')][1]
 
-[1]: [https://cwe.mitre.org/data/definitions/213.html](https://cwe.mitre.org/data/definitions/362.html)
+[1]: https://cwe.mitre.org/data/definitions/362.html
